@@ -1,5 +1,6 @@
 import UIKit
 
+//lesson 1
 //========Квадратное уравнение
 // a(x*x)+bx+c = 0
 //x12 = (-b+- sqrt(b*b - 4ac)  ) / 2a
