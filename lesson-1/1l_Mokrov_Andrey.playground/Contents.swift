@@ -55,7 +55,7 @@ let startMmoney: Double = 15000
 var moneyFinish: Double = startMmoney
 
 print("start money: \(moneyFinish)")
-for index in 1...yearsCount{
+for _ in 1...yearsCount{
     let percentAccured = moneyFinish * percentsPerYears / 100
     moneyFinish = moneyFinish + percentAccured
     print("percents: \(percentAccured) summ: \(moneyFinish)")
